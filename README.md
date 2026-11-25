@@ -174,3 +174,4 @@ by the institutions of the European Union
 ## E-Rechnung
 
 - [eRechnungGuide.de](https://erechnung-guide.de) - Ratgeber, kostenloser XRechnung-Generator und Validator zur deutschen E-Rechnungspflicht (EN 16931 / XRechnung / ZUGFeRD).
+- [E-Rechnung prüfen](https://evaoffice.github.io/eva-technology/e-rechnung-pruefen/) - Kostenloser XRechnung-Validator (UBL), der im Browser läuft; die Datei wird nicht hochgeladen. Zu jedem Fehler nennt er die Regel-ID und wie man ihn behebt ([Quellcode](https://github.com/evaoffice/eva-technology), MIT).
